@@ -57,7 +57,7 @@ function App() {
           ingredient2, etc., and Recipe AI will generate an all-new recipe on
           demand...
         </p>
-        <p>
+        <p className="description">
           Put together by Wheeler Hayes for CSCE 3420 Week 14 Assignment.
         </p>
       </div>
